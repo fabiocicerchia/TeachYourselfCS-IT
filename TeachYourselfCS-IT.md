@@ -252,7 +252,7 @@ Molti dei libri di testo che proponiamo sono disponibili gratuitamente online, g
 
 Questa guida è stata originariamente scritta da [Oz Nova](https://twitter.com/oznova_) e [Myles Byrne](https://twitter.com/quackingduck), con gli aggiornamenti del 2020 di Oz. Si basa sulla nostra esperienza nell'insegnamento dell'informatica di base a oltre 1000 ingegneri per lo più autodidatti e diplomati in un bootcamp in piccoli gruppi a San Francisco e dal vivo online. Grazie a tutti i nostri studenti per il vostro continuo feedback sulle risorse di autoapprendimento.
 
-Siamo molto fiduciosi che tu possa imparare tutto quanto riportato sopra, supponendo che ci sia abbastanza tempo e motivazione. Ma se preferisci un programma intensivo, strutturato e guidato da un istruttore, potresti essere interessato al nostro [Intensivo di Informatica] (https://bradfieldcs.com/csi/). Noi [NON](https://ozwrites.com/masters/) suggeriamo di ottenere un master.
+Siamo molto fiduciosi che tu possa imparare tutto quanto riportato sopra, supponendo che ci sia abbastanza tempo e motivazione. Ma se preferisci un programma intensivo, strutturato e guidato da un istruttore, potresti essere interessato al nostro [Intensivo di Informatica](https://bradfieldcs.com/csi/). Noi [NON](https://ozwrites.com/masters/) suggeriamo di ottenere un master.
 
 Per aggiornamenti a questa guida e notizie e risorse di informatica generale, potresti anche iscriverti alla mailing list di Bradfield nella pagina di [teachyourselfcs](https://teachyourselfcs.com/#field_0).
 
