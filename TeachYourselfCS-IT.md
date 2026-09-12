@@ -60,6 +60,8 @@ La nostra raccomandazione standard per questo contenuto è la classica *Structur
 
 Raccomandiamo di lavorare almeno sui primi tre capitoli di SICP e di fare gli esercizi. Per ulteriore pratica, lavora su una serie di piccoli problemi di programmazione come quelli su [exercism](http://exercism.io/).
 
+Per una guida pratica e aggiornata a TypeScript, puoi consultare [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/), una risorsa gratuita e open source recentemente aggiornata a TypeScript 7.
+
 Da quando questa guida è stata pubblicata per la prima volta nel 2016, una delle domande più frequenti è stata se raccomandiamo ora le registrazioni di un'iterazione più recente di 61A insegnata da John DeNero e/o il libro corrispondente *[Composing Programs](https ://composingprograms.com/)*, che è "nella tradizione di SICP" ma usa Python. Pensiamo che anche le risorse di DeNero siano ottime, e alcuni studenti potrebbero finire per preferirle, ma suggeriamo comunque le lezioni di SICP, Scheme e Brian Harvey come prima serie di risorse da provare.
 
 Perché? Perché SICP è unico nella sua capacità—almeno potenzialmente—di alterare le tue convinzioni fondamentali sui computer e sulla programmazione. Non tutti sperimenteranno questa alterazione. Alcuni odieranno il libro, altri non andranno oltre le prime pagine. Ma il potenziale guadagno ricompensa lo sforzo.
